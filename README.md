@@ -9,7 +9,7 @@
 
 
  ## Code walkthrough 
- [https://github.com/miguelrizzog96/Queue_analisis_using_simluation/blob/master/server.ipynb](https://github.com/miguelrizzog96/Queue_analisis_using_simluation/blob/master/server.ipynb)
+ [https://github.com/palash402/Queue-Model-poisson-process-project/blob/master/server.ipynb](https://github.com/palash402/Queue-Model-poisson-process-project/blob/master/server.ipynb)
 
 ## Why Study Queues?
 Waiting to be attended is part of daily life. We wait in restaurants, we do a
